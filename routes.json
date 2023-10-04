@@ -1,0 +1,4 @@
+{
+  "/countries/:code": "/countries?alpha2Code=:code",
+  "/countries/region/:region": "/countries?region=:region"
+}
